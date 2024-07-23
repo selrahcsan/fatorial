@@ -8,17 +8,15 @@ O programa solicita ao usuário que insira um número e, em seguida, calcula o f
 
 ## Como Usar
 
-1. Clone este repositório:
+### 1. Clone este repositório:
 ```bash
 git clone https://github.com/selrahcsan/fatorial.git
 ```
-1. 
-Navegue até o diretório do projeto:
-
+### 2. Navegue até o diretório do projeto:
+```bash
 cd Fatorial
-
-1. 
-Compilar e executar o programa:
+```
+### 3. Compilar e executar o programa:
 ```bash
 dotnet run
 ```
