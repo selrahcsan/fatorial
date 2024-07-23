@@ -1,0 +1,15 @@
+/home/charles/RiderProjects/fatorial/Fatorial/bin/Debug/net8.0/Fatorial
+/home/charles/RiderProjects/fatorial/Fatorial/bin/Debug/net8.0/Fatorial.deps.json
+/home/charles/RiderProjects/fatorial/Fatorial/bin/Debug/net8.0/Fatorial.runtimeconfig.json
+/home/charles/RiderProjects/fatorial/Fatorial/bin/Debug/net8.0/Fatorial.dll
+/home/charles/RiderProjects/fatorial/Fatorial/bin/Debug/net8.0/Fatorial.pdb
+/home/charles/RiderProjects/fatorial/Fatorial/obj/Debug/net8.0/Fatorial.GeneratedMSBuildEditorConfig.editorconfig
+/home/charles/RiderProjects/fatorial/Fatorial/obj/Debug/net8.0/Fatorial.AssemblyInfoInputs.cache
+/home/charles/RiderProjects/fatorial/Fatorial/obj/Debug/net8.0/Fatorial.AssemblyInfo.cs
+/home/charles/RiderProjects/fatorial/Fatorial/obj/Debug/net8.0/Fatorial.csproj.CoreCompileInputs.cache
+/home/charles/RiderProjects/fatorial/Fatorial/obj/Debug/net8.0/Fatorial.sourcelink.json
+/home/charles/RiderProjects/fatorial/Fatorial/obj/Debug/net8.0/Fatorial.dll
+/home/charles/RiderProjects/fatorial/Fatorial/obj/Debug/net8.0/refint/Fatorial.dll
+/home/charles/RiderProjects/fatorial/Fatorial/obj/Debug/net8.0/Fatorial.pdb
+/home/charles/RiderProjects/fatorial/Fatorial/obj/Debug/net8.0/Fatorial.genruntimeconfig.cache
+/home/charles/RiderProjects/fatorial/Fatorial/obj/Debug/net8.0/ref/Fatorial.dll
